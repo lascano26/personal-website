@@ -51,7 +51,7 @@ export default function MainCard() {
         paddingBottom: '48px',
         width: '100vw',
         marginLeft: 'calc(-50vw + 50%)',
-        backgroundImage: 'url(/src/assets/gingham_bkg.png)',
+        backgroundImage: 'url(/gingham_bkg.png)',
         backgroundRepeat: 'repeat',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
