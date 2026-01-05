@@ -47,7 +47,7 @@ export default function Navbar() {
         <div className="navbar-content" style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', padding: '16px 24px', width: '100%', margin: 0 }}>
           <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '12px' }}>
             <img
-              src="/src/assets/flower.png.webp"
+              src="flower.png.webp"
               alt="Flower logo"
               className="navbar-logo"
               width={50}

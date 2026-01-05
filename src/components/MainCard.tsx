@@ -81,7 +81,7 @@ export default function MainCard() {
               {/* Space for images below */}
               <div className="image-container" style={{ minHeight: '200px', marginTop: '24px', display: 'flex', justifyContent: 'center', gap: '16px' }}>
                 <img
-                  src="/src/assets/IMG_2928.jpg"
+                  src="/IMG_2928.jpg"
                   alt="Lauren"
                   className="profile-image"
                   style={{ width: '200px', height: '200px', objectFit: 'cover', borderRadius: '8px', boxShadow: '0 4px 6px rgba(0,0,0,0.1)' }}
